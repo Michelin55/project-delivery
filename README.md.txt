@@ -50,7 +50,7 @@ AI Prompts Used
 Why it failed: Too Broad and Overloaded
 This prompt asks for too many unrelated things at once, including:
 App structure and architecture, State management strategy, Role-based access patterns, UX improvements, Simulated interactivity, Accessibility patterns, Edge case analysis
-❗ AI tools (like vo.dev or ChatGPT) work best with focused, atomic prompts. Mixing design, logic, architecture, UX, and auditing in one shot overwhelms the model and returns either incomplete output or generic advice.
+❗ AI tools ( ChatGPT) work best with focused, atomic prompts. Mixing design, logic, architecture, UX, and auditing in one shot overwhelms the model and returns either incomplete output or generic advice.
 💬 Reflection Questions
 1. What was the most challenging part?
 Although i can't really say a challenge but i would say quality constructive prompt.
