@@ -2,8 +2,6 @@
 
 A modern, responsive frontend dashboard built with Next.js and TypeScript that provides internal visibility into project delivery status across three user roles: Developers, Project Managers, and Executives.
 
-## 🚀 Live Demo
-
 The dashboard simulates real-world project management scenarios with dynamic milestone tracking, task management, and role-based views.
 
 ## 📋 Features
