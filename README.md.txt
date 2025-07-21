@@ -2,6 +2,8 @@
 
 A modern, responsive frontend dashboard built with Next.js and TypeScript that provides internal visibility into project delivery status across three user roles: Developers, Project Managers, and Executives.
 
+## 🚀 Live Demo
+
 The dashboard simulates real-world project management scenarios with dynamic milestone tracking, task management, and role-based views.
 
 ## 📋 Features
@@ -41,8 +43,7 @@ The dashboard simulates real-world project management scenarios with dynamic mil
 
 1. **Clone the repository**
    \`\`\`bash
-   git clone  https://github.com/Michelin55/project-delivery
-
+   git clone https://github.com/Michelin55/project-delivery
    cd project-dashboard
    \`\`\`
 
